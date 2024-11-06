@@ -1,1 +1,1 @@
-# medfriend
+Analysys of Lab reports
